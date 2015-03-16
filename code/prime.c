@@ -2,7 +2,7 @@
 
 prime()
 {
-
+  echo "Testing... if the given number is prime or even"
 }
 
 main(){
