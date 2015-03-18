@@ -1,2 +1,2 @@
-#Fix for issue 53
-#version: 1
+#Fix for iss53
+#version: 2.0 
